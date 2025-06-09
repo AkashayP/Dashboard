@@ -1,7 +1,7 @@
 # E-commerce Dashboard
 # Dashboard Project
 
-![Dashboard Preview](![image](https://github.com/user-attachments/assets/1eb32733-0af5-499c-9de1-aecdb20954e1)
+![Dashboard Preview](![image]([https://github.com/user-attachments/assets/1eb32733-0af5-499c-9de1-aecdb20954e1](https://dashboard-ten-sepia.vercel.app/))
 )
 
 ## Table of Contents
